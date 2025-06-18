@@ -1,16 +1,7 @@
-**Name:** R.Siraddeen  
-**Company:** CODTECH IT SOLUTIONS  
-**ID:** CT4FS4527  
-
+**Name:** Narendra Singh
 **Domain:** Full Stack (Web Development)
 
-**Duration:** July to August 2024
-
-**Mentor:** Muzammil Ahmed
-
-  
-
-
+**Duration:** 16 june to 18 june 2025
 
 ## Overview of the Project
 ### Objective
